@@ -8,76 +8,395 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-aop-4.0.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-aop-4.0.4.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-aop-4.0.4.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-aspects-4.0.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-aspects-4.0.4.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-aspects-4.0.4.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-beans-4.0.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-beans-4.0.4.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-beans-4.0.4.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-build-src-4.0.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-context-4.0.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-context-4.0.4.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-context-4.0.4.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-context-support-4.0.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-context-support-4.0.4.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-context-support-4.0.4.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-core-4.0.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-core-4.0.4.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-core-4.0.4.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-expression-4.0.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-expression-4.0.4.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-expression-4.0.4.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-framework-bom-4.0.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-framework-bom-4.0.4.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-framework-bom-4.0.4.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-instrument-4.0.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-instrument-4.0.4.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-instrument-4.0.4.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-instrument-tomcat-4.0.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-instrument-tomcat-4.0.4.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-instrument-tomcat-4.0.4.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-jdbc-4.0.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-jdbc-4.0.4.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-jdbc-4.0.4.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-jms-4.0.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-jms-4.0.4.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-jms-4.0.4.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-messaging-4.0.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-messaging-4.0.4.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-messaging-4.0.4.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-orm-4.0.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-orm-4.0.4.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-orm-4.0.4.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-oxm-4.0.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-oxm-4.0.4.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-oxm-4.0.4.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-test-4.0.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-test-4.0.4.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-test-4.0.4.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-tx-4.0.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-tx-4.0.4.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-tx-4.0.4.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-web-4.0.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-web-4.0.4.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-web-4.0.4.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-webmvc-4.0.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-webmvc-4.0.4.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-webmvc-4.0.4.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-webmvc-portlet-4.0.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-webmvc-portlet-4.0.4.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-webmvc-portlet-4.0.4.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-websocket-4.0.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-websocket-4.0.4.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-websocket-4.0.4.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/log4j.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/ojdbc14.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/tomcat-dbcp.jar/tomcat-dbcp.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/hibernate-distribution-3.6.10.Final/hibernate3.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/hibernate-distribution-3.6.10.Final/lib/jpa/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
-	<classpathentry kind="lib" path="E:/Java Jar Files/servlet.jar"/>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-aop-4.0.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-aop-4.0.4.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-aop-4.0.4.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-aspects-4.0.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-aspects-4.0.4.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-aspects-4.0.4.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-beans-4.0.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-beans-4.0.4.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-beans-4.0.4.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-build-src-4.0.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-context-4.0.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-context-4.0.4.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-context-4.0.4.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-context-support-4.0.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-context-support-4.0.4.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-context-support-4.0.4.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-core-4.0.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-core-4.0.4.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-core-4.0.4.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-expression-4.0.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-expression-4.0.4.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-expression-4.0.4.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-framework-bom-4.0.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-framework-bom-4.0.4.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-framework-bom-4.0.4.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-instrument-4.0.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-instrument-4.0.4.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-instrument-4.0.4.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-instrument-tomcat-4.0.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-instrument-tomcat-4.0.4.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-instrument-tomcat-4.0.4.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-jdbc-4.0.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-jdbc-4.0.4.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-jdbc-4.0.4.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-jms-4.0.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-jms-4.0.4.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-jms-4.0.4.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-messaging-4.0.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-messaging-4.0.4.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-messaging-4.0.4.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-orm-4.0.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-orm-4.0.4.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-orm-4.0.4.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-oxm-4.0.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-oxm-4.0.4.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-oxm-4.0.4.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-test-4.0.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-test-4.0.4.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-test-4.0.4.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-tx-4.0.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-tx-4.0.4.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-tx-4.0.4.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-web-4.0.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-web-4.0.4.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-web-4.0.4.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-webmvc-4.0.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-webmvc-4.0.4.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-webmvc-4.0.4.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-webmvc-portlet-4.0.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-webmvc-portlet-4.0.4.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-webmvc-portlet-4.0.4.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-websocket-4.0.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-websocket-4.0.4.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs/spring-websocket-4.0.4.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/log4j.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/ojdbc14.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/tomcat-dbcp.jar/tomcat-dbcp.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/hibernate-distribution-3.6.10.Final/hibernate3.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/servlet.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/aopalliance-.jar/aopalliance-.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/hibernate-distribution-3.6.10.Final/lib/jpa/hibernate-jpa-2.0-api-1.0.1.Final.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/hibernate-distribution-3.6.10.Final/lib/required/antlr-2.7.6.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/hibernate-distribution-3.6.10.Final/lib/required/commons-collections-3.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/hibernate-distribution-3.6.10.Final/lib/required/dom4j-1.6.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/hibernate-distribution-3.6.10.Final/lib/required/javassist-3.12.0.GA.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/hibernate-distribution-3.6.10.Final/lib/required/jta-1.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Jar Files/hibernate-distribution-3.6.10.Final/lib/required/slf4j-api-1.6.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

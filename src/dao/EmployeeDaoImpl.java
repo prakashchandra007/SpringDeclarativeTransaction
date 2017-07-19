@@ -1,14 +1,16 @@
 package dao;
 
+import org.springframework.orm.hibernate3.HibernateTemplate;
+
 import model.Employee;
 
-import org.springframework.orm.hibernate4.HibernateTemplate;
 
 public class EmployeeDaoImpl implements EmployeeDao {
 	
 	private HibernateTemplate hibernateTemplate;
 	
 	public void setHibernateTemplate(HibernateTemplate hibernateTemplate) {
+		
 		this.hibernateTemplate = hibernateTemplate;
 	}
 
